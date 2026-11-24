@@ -7,6 +7,7 @@ Lộ trình ôn thi SAP-C03 cho người đã có SAA, từ 23/11/2026 đến ng
 | [`01-lo-trinh-on-tap.md`](01-lo-trinh-on-tap.md) | Lộ trình 9 tuần, checklist từng ngày (1h ngày thường, 2h cuối tuần) |
 | [`02-lich-thi-thu.md`](02-lich-thi-thu.md) | Lịch thi thử, bảng điểm, quy tắc chọn ngày thi |
 | [`notes/mistakes.md`](notes/mistakes.md) | Sổ ghi lỗi sai khi luyện đề |
+| [`knowledge/`](knowledge/) | Tổng hợp kiến thức theo từng section |
 
 ## Thông tin kỳ thi
 
