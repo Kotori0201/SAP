@@ -10,7 +10,7 @@ Mỗi section của khóa Stephane Maarek là **một thư mục riêng**. Trong
 | 01 | Identity & Federation | [01-identity-federation/](01-identity-federation/) | 1 | ✅ |
 | 02 | Security | [02-security/](02-security/) | 2 | ✅ |
 | 03 | Compute & Load Balancing | [03-compute-load-balancing/](03-compute-load-balancing/) | 3 | ✅ |
-| 04 | Storage | – | 3 | ⏳ |
+| 04 | Storage | [04-storage/](04-storage/) | 3 | ✅ |
 | 05 | Caching | – | 3 | ⏳ |
 | 06 | Databases | – | 3 | ⏳ |
 | 07 | Service Communication | – | 4 | ⏳ |
