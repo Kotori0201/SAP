@@ -31,6 +31,7 @@
 | 12 | Global Accelerator | [12-global-accelerator.md](12-global-accelerator.md) |
 | 13 | So sánh kiến trúc Compute + LB | [13-so-sanh-kien-truc.md](13-so-sanh-kien-truc.md) |
 | 14 | Outposts, Wavelength, Local Zones | [14-outposts-wavelength-local-zones.md](14-outposts-wavelength-local-zones.md) |
+| ⭐ | **Tổng kết, so sánh & tip nhớ nhanh** | [TONG-KET.md](TONG-KET.md) |
 
 ## Cheat-sheet: Tình huống → Giải pháp
 

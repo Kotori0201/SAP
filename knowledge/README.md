@@ -3,6 +3,7 @@
 Mỗi section của khóa Stephane Maarek là **một thư mục riêng**. Trong mỗi thư mục:
 - `README.md` – định nghĩa tổng quan, mục lục, **cheat-sheet tình huống → giải pháp**, **bẫy hay gặp**
 - Mỗi chủ đề một file, luôn bắt đầu bằng bảng **📖 Định nghĩa**, và mỗi mục con có dòng **📖 Định nghĩa** riêng
+- `TONG-KET.md` – ⭐ **bảng tổng hợp kiến thức, bảng so sánh và tip nhớ nhanh** của section
 - Phần **🆕** là nội dung bổ sung ngoài slide (cập nhật AWS / chủ đề mới SAP-C03)
 
 | # | Section | Thư mục | Tuần | Trạng thái |
@@ -12,7 +13,7 @@ Mỗi section của khóa Stephane Maarek là **một thư mục riêng**. Trong
 | 03 | Compute & Load Balancing | [03-compute-load-balancing/](03-compute-load-balancing/) | 3 | ✅ |
 | 04 | Storage | [04-storage/](04-storage/) | 3 | ✅ |
 | 05 | Caching | [05-caching/](05-caching/) | 3 | ✅ |
-| 06 | Databases | – | 3 | ⏳ |
+| 06 | Databases | [06-databases/](06-databases/) | 3 | ✅ |
 | 07 | Service Communication | – | 4 | ⏳ |
 | 08 | Data Engineering | – | 4 | ⏳ |
 | 09 | Monitoring | – | 4 | ⏳ |

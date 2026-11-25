@@ -28,6 +28,7 @@
 | 10 | IAM Identity Center | [10-iam-identity-center.md](10-iam-identity-center.md) |
 | 11 | AWS Control Tower | [11-aws-control-tower.md](11-aws-control-tower.md) |
 | 12 | AWS Resource Access Manager (RAM) | [12-aws-ram.md](12-aws-ram.md) |
+| ⭐ | **Tổng kết, so sánh & tip nhớ nhanh** | [TONG-KET.md](TONG-KET.md) |
 
 ## Cheat-sheet: Tình huống → Giải pháp
 

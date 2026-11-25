@@ -21,6 +21,7 @@
 | 2 | CloudFront Functions & Lambda@Edge | [02-cloudfront-functions-va-lambda-edge.md](02-cloudfront-functions-va-lambda-edge.md) |
 | 3 | Amazon ElastiCache | [03-elasticache.md](03-elasticache.md) |
 | 4 | Xử lý tải cực lớn | [04-xu-ly-tai-cuc-lon.md](04-xu-ly-tai-cuc-lon.md) |
+| ⭐ | **Tổng kết, so sánh & tip nhớ nhanh** | [TONG-KET.md](TONG-KET.md) |
 
 ## Cheat-sheet: Tình huống → Giải pháp
 

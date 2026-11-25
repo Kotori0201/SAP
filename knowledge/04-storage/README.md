@@ -25,6 +25,7 @@
 | 6 | DataSync | [06-datasync.md](06-datasync.md) |
 | 7 | Data Exchange & Transfer Family | [07-data-exchange-va-transfer-family.md](07-data-exchange-va-transfer-family.md) |
 | 8 | Kiến trúc lưu trữ & chi phí | [08-kien-truc-va-chi-phi-storage.md](08-kien-truc-va-chi-phi-storage.md) |
+| ⭐ | **Tổng kết, so sánh & tip nhớ nhanh** | [TONG-KET.md](TONG-KET.md) |
 
 > Bảo mật S3 (mã hóa, Object Lock, Access Points, MRAP, Object Lambda): [02-security/06-s3-security.md](../02-security/06-s3-security.md)
 

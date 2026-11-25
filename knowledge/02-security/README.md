@@ -28,6 +28,7 @@
 | 9 | Inspector, Config, GuardDuty | [09-inspector-config-guardduty.md](09-inspector-config-guardduty.md) |
 | 10 | IAM Conditions, aws:PrincipalOrgID, EC2 Instance Connect | [10-iam-conditions-va-ec2-instance-connect.md](10-iam-conditions-va-ec2-instance-connect.md) |
 | 11 | Security Hub & Detective | [11-security-hub-va-detective.md](11-security-hub-va-detective.md) |
+| ⭐ | **Tổng kết, so sánh & tip nhớ nhanh** | [TONG-KET.md](TONG-KET.md) |
 
 ## Cheat-sheet: Tình huống → Giải pháp
 
